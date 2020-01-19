@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Olá React Native - App</Text>
+      <Text>Projeto LozalizaDev versão Mobile</Text>
     </View>
   );
 }
